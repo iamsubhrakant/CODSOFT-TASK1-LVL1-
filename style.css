@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    color: gold;
+}
+
+#heading{
+    color: aliceblue;
+    text-align: center;
+}
+
+#title {
+
+    text-align: center;
+    border: 5px solid red;
+    padding: 10px 10px 10px 10px;
+    font-size: 50px;
+}
+
+#logo{
+    text-align: center;
+    display: inline-block 1;
+}
+
+#title2 {
+
+    text-align: center;
+    border: 5px solid red;
+    padding: 15px 15px 15px 15px;
+    font-family: garamond;
+    font-weight: 100;
+    text-transform: capitalize ;
+}
+
+.h3headings{
+    text-align: center;
+    border: 5px solid red;
+    padding: 10px 10px 10px 10px;
+}
+
+.subheadings{
+    text-align: center;
+    border: 5px solid rgb(0, 4, 255);
+    background-color:whitesmoke;
+    color: black;
+}
+
+#porfolios{
+    border: 5px solid rgb(0, 4, 255);  
+}
+
